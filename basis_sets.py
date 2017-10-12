@@ -118,7 +118,7 @@ basis_sets = {
         "SARC-DKH-TZVP": "Available for elements beyond Xe",
         "SARC-DKH-TZVPP": "Available for elements beyond Xe",
         "SARC-ZORA-SVP": "5d transition metals only",
-        "ARC-ZORA-TZVP": "Available for elements beyond Xe",
+        "SARC-ZORA-TZVP": "Available for elements beyond Xe",
         "SARC-ZORA-TZVPP": "Available for elements beyond Xe"},
 
     sarc2: {
